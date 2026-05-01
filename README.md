@@ -1,6 +1,6 @@
 # RAG From Scratch — Episode 2
 
-<img width="642" height="197" alt="image" src="https://github.com/user-attachments/assets/8160d49f-450e-441c-8e45-ccb90d284666" />
+<img width="700" height="197" alt="image" src="https://github.com/user-attachments/assets/8160d49f-450e-441c-8e45-ccb90d284666" />
 
 
 
